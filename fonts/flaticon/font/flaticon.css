@@ -1,6 +1,14 @@
 	/*
   	Flaticon icon font: Flaticon
+<<<<<<< HEAD
   	Creation date: 29/10/2019 06:11
+=======
+<<<<<<< HEAD
+  	Creation date: 18/07/2019 07:36
+=======
+  	Creation date: 29/10/2019 06:11
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   	*/
 
 @font-face {
@@ -25,6 +33,27 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+        font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-car:before { content: "\f100"; }
+.flaticon-car-1:before { content: "\f101"; }
+.flaticon-valet:before { content: "\f102"; }
+.flaticon-valet-1:before { content: "\f103"; }
+.flaticon-traffic:before { content: "\f104"; }
+.flaticon-key:before { content: "\f105"; }
+=======
+>>>>>>> temp-branch
         font-size: 20px;
 font-style: normal;
 margin-left: 20px;
@@ -41,4 +70,9 @@ margin-left: 20px;
 .flaticon-pistons:before { content: "\f108"; }
 .flaticon-car-seat:before { content: "\f109"; }
 .flaticon-backpack:before { content: "\f10a"; }
+<<<<<<< HEAD
 .flaticon-diesel:before { content: "\f10b"; }
+=======
+.flaticon-diesel:before { content: "\f10b"; }
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch

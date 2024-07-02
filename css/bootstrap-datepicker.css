@@ -1,4 +1,14 @@
 /*!
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+ * Datepicker for Bootstrap v1.6.4 (https://github.com/eternicode/bootstrap-datepicker)
+ *
+ * Copyright 2012 Stefan Petre
+ * Improvements by Andrew Rowls
+ * Licensed under the Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+=======
+>>>>>>> temp-branch
  * Datepicker for Bootstrap
  *
  * Copyright 2012 Stefan Petre
@@ -6,6 +16,10 @@
  * Licensed under the Apache License v2.0
  * http://www.apache.org/licenses/LICENSE-2.0
  *
+<<<<<<< HEAD
+=======
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
  */
 .datepicker {
   padding: 4px;
@@ -13,9 +27,18 @@
   -moz-border-radius: 4px;
   border-radius: 4px;
   direction: ltr;
+<<<<<<< HEAD
   /*.dow {
 		border-top: 1px solid #ddd !important;
 	}*/
+=======
+<<<<<<< HEAD
+=======
+  /*.dow {
+		border-top: 1px solid #ddd !important;
+	}*/
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
 }
 .datepicker-inline {
   width: 220px;
@@ -35,7 +58,15 @@
   display: inline-block;
   border-left: 7px solid transparent;
   border-right: 7px solid transparent;
+<<<<<<< HEAD
   border-bottom: 7px solid #ccc;
+=======
+<<<<<<< HEAD
+  border-bottom: 7px solid #999;
+=======
+  border-bottom: 7px solid #ccc;
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   border-top: 0;
   border-bottom-color: rgba(0, 0, 0, 0.2);
   position: absolute;
@@ -45,7 +76,15 @@
   display: inline-block;
   border-left: 6px solid transparent;
   border-right: 6px solid transparent;
+<<<<<<< HEAD
   border-bottom: 6px solid #ffffff;
+=======
+<<<<<<< HEAD
+  border-bottom: 6px solid #fff;
+=======
+  border-bottom: 6px solid #ffffff;
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   border-top: 0;
   position: absolute;
 }
@@ -61,6 +100,18 @@
 .datepicker-dropdown.datepicker-orient-right:after {
   right: 7px;
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+.datepicker-dropdown.datepicker-orient-bottom:before {
+  top: -7px;
+}
+.datepicker-dropdown.datepicker-orient-bottom:after {
+  top: -6px;
+}
+.datepicker-dropdown.datepicker-orient-top:before {
+=======
+>>>>>>> temp-branch
 .datepicker-dropdown.datepicker-orient-top:before {
   top: -7px;
 }
@@ -68,10 +119,23 @@
   top: -6px;
 }
 .datepicker-dropdown.datepicker-orient-bottom:before {
+<<<<<<< HEAD
+=======
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   bottom: -7px;
   border-bottom: 0;
   border-top: 7px solid #999;
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+.datepicker-dropdown.datepicker-orient-top:after {
+  bottom: -6px;
+  border-bottom: 0;
+  border-top: 6px solid #fff;
+=======
+>>>>>>> temp-branch
 .datepicker-dropdown.datepicker-orient-bottom:after {
   bottom: -6px;
   border-bottom: 0;
@@ -88,6 +152,10 @@
 }
 .datepicker.years div.datepicker-years {
   display: block;
+<<<<<<< HEAD
+=======
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
 }
 .datepicker table {
   margin: 0;
@@ -114,30 +182,77 @@
 }
 .datepicker table tr td.day:hover,
 .datepicker table tr td.day.focused {
+<<<<<<< HEAD
   background: #eeeeee;
+=======
+<<<<<<< HEAD
+  background: #eee;
+=======
+  background: #eeeeee;
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   cursor: pointer;
 }
 .datepicker table tr td.old,
 .datepicker table tr td.new {
+<<<<<<< HEAD
   color: #999999;
+=======
+<<<<<<< HEAD
+  color: #999;
+=======
+  color: #999999;
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
 }
 .datepicker table tr td.disabled,
 .datepicker table tr td.disabled:hover {
   background: none;
+<<<<<<< HEAD
   color: #999999;
   cursor: default;
 }
+=======
+<<<<<<< HEAD
+  color: #999;
+  cursor: default;
+}
+.datepicker table tr td.highlighted {
+  background: #d9edf7;
+  border-radius: 0;
+}
+=======
+  color: #999999;
+  cursor: default;
+}
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
 .datepicker table tr td.today,
 .datepicker table tr td.today:hover,
 .datepicker table tr td.today.disabled,
 .datepicker table tr td.today.disabled:hover {
   background-color: #fde19a;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  background-image: -moz-linear-gradient(to bottom, #fdd49a, #fdf59a);
+  background-image: -ms-linear-gradient(to bottom, #fdd49a, #fdf59a);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fdd49a), to(#fdf59a));
+  background-image: -webkit-linear-gradient(to bottom, #fdd49a, #fdf59a);
+  background-image: -o-linear-gradient(to bottom, #fdd49a, #fdf59a);
+  background-image: linear-gradient(to bottom, #fdd49a, #fdf59a);
+=======
+>>>>>>> temp-branch
   background-image: -moz-linear-gradient(top, #fdd49a, #fdf59a);
   background-image: -ms-linear-gradient(top, #fdd49a, #fdf59a);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fdd49a), to(#fdf59a));
   background-image: -webkit-linear-gradient(top, #fdd49a, #fdf59a);
   background-image: -o-linear-gradient(top, #fdd49a, #fdf59a);
   background-image: linear-gradient(top, #fdd49a, #fdf59a);
+<<<<<<< HEAD
+=======
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fdd49a', endColorstr='#fdf59a', GradientType=0);
   border-color: #fdf59a #fdf59a #fbed50;
@@ -187,7 +302,15 @@
 .datepicker table tr td.range:hover,
 .datepicker table tr td.range.disabled,
 .datepicker table tr td.range.disabled:hover {
+<<<<<<< HEAD
   background: #eeeeee;
+=======
+<<<<<<< HEAD
+  background: #eee;
+=======
+  background: #eeeeee;
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
@@ -197,12 +320,27 @@
 .datepicker table tr td.range.today.disabled,
 .datepicker table tr td.range.today.disabled:hover {
   background-color: #f3d17a;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  background-image: -moz-linear-gradient(to bottom, #f3c17a, #f3e97a);
+  background-image: -ms-linear-gradient(to bottom, #f3c17a, #f3e97a);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f3c17a), to(#f3e97a));
+  background-image: -webkit-linear-gradient(to bottom, #f3c17a, #f3e97a);
+  background-image: -o-linear-gradient(to bottom, #f3c17a, #f3e97a);
+  background-image: linear-gradient(to bottom, #f3c17a, #f3e97a);
+=======
+>>>>>>> temp-branch
   background-image: -moz-linear-gradient(top, #f3c17a, #f3e97a);
   background-image: -ms-linear-gradient(top, #f3c17a, #f3e97a);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f3c17a), to(#f3e97a));
   background-image: -webkit-linear-gradient(top, #f3c17a, #f3e97a);
   background-image: -o-linear-gradient(top, #f3c17a, #f3e97a);
   background-image: linear-gradient(top, #f3c17a, #f3e97a);
+<<<<<<< HEAD
+=======
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3c17a', endColorstr='#f3e97a', GradientType=0);
   border-color: #f3e97a #f3e97a #edde34;
@@ -249,12 +387,27 @@
 .datepicker table tr td.selected.disabled,
 .datepicker table tr td.selected.disabled:hover {
   background-color: #9e9e9e;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  background-image: -moz-linear-gradient(to bottom, #b3b3b3, #808080);
+  background-image: -ms-linear-gradient(to bottom, #b3b3b3, #808080);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#b3b3b3), to(#808080));
+  background-image: -webkit-linear-gradient(to bottom, #b3b3b3, #808080);
+  background-image: -o-linear-gradient(to bottom, #b3b3b3, #808080);
+  background-image: linear-gradient(to bottom, #b3b3b3, #808080);
+=======
+>>>>>>> temp-branch
   background-image: -moz-linear-gradient(top, #b3b3b3, #808080);
   background-image: -ms-linear-gradient(top, #b3b3b3, #808080);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#b3b3b3), to(#808080));
   background-image: -webkit-linear-gradient(top, #b3b3b3, #808080);
   background-image: -o-linear-gradient(top, #b3b3b3, #808080);
   background-image: linear-gradient(top, #b3b3b3, #808080);
+<<<<<<< HEAD
+=======
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b3b3b3', endColorstr='#808080', GradientType=0);
   border-color: #808080 #808080 #595959;
@@ -300,6 +453,19 @@
 .datepicker table tr td.active.disabled,
 .datepicker table tr td.active.disabled:hover {
   background-color: #006dcc;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  background-image: -moz-linear-gradient(to bottom, #08c, #0044cc);
+  background-image: -ms-linear-gradient(to bottom, #08c, #0044cc);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#08c), to(#0044cc));
+  background-image: -webkit-linear-gradient(to bottom, #08c, #0044cc);
+  background-image: -o-linear-gradient(to bottom, #08c, #0044cc);
+  background-image: linear-gradient(to bottom, #08c, #0044cc);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#08c', endColorstr='#0044cc', GradientType=0);
+=======
+>>>>>>> temp-branch
   background-image: -moz-linear-gradient(top, #0088cc, #0044cc);
   background-image: -ms-linear-gradient(top, #0088cc, #0044cc);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0044cc));
@@ -308,6 +474,10 @@
   background-image: linear-gradient(top, #0088cc, #0044cc);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0088cc', endColorstr='#0044cc', GradientType=0);
+<<<<<<< HEAD
+=======
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   border-color: #0044cc #0044cc #002a80;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
@@ -358,13 +528,32 @@
   -moz-border-radius: 4px;
   border-radius: 4px;
 }
+<<<<<<< HEAD
 .datepicker table tr td span:hover {
   background: #eeeeee;
+=======
+<<<<<<< HEAD
+.datepicker table tr td span:hover,
+.datepicker table tr td span.focused {
+  background: #eee;
+=======
+.datepicker table tr td span:hover {
+  background: #eeeeee;
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
 }
 .datepicker table tr td span.disabled,
 .datepicker table tr td span.disabled:hover {
   background: none;
+<<<<<<< HEAD
   color: #999999;
+=======
+<<<<<<< HEAD
+  color: #999;
+=======
+  color: #999999;
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   cursor: default;
 }
 .datepicker table tr td span.active,
@@ -372,6 +561,19 @@
 .datepicker table tr td span.active.disabled,
 .datepicker table tr td span.active.disabled:hover {
   background-color: #006dcc;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  background-image: -moz-linear-gradient(to bottom, #08c, #0044cc);
+  background-image: -ms-linear-gradient(to bottom, #08c, #0044cc);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#08c), to(#0044cc));
+  background-image: -webkit-linear-gradient(to bottom, #08c, #0044cc);
+  background-image: -o-linear-gradient(to bottom, #08c, #0044cc);
+  background-image: linear-gradient(to bottom, #08c, #0044cc);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#08c', endColorstr='#0044cc', GradientType=0);
+=======
+>>>>>>> temp-branch
   background-image: -moz-linear-gradient(top, #0088cc, #0044cc);
   background-image: -ms-linear-gradient(top, #0088cc, #0044cc);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0044cc));
@@ -380,6 +582,10 @@
   background-image: linear-gradient(top, #0088cc, #0044cc);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0088cc', endColorstr='#0044cc', GradientType=0);
+<<<<<<< HEAD
+=======
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   border-color: #0044cc #0044cc #002a80;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
@@ -420,6 +626,27 @@
 }
 .datepicker table tr td span.old,
 .datepicker table tr td span.new {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  color: #999;
+}
+.datepicker .datepicker-switch {
+  width: 145px;
+}
+.datepicker .datepicker-switch,
+.datepicker .prev,
+.datepicker .next,
+.datepicker tfoot tr th {
+  cursor: pointer;
+}
+.datepicker .datepicker-switch:hover,
+.datepicker .prev:hover,
+.datepicker .next:hover,
+.datepicker tfoot tr th:hover {
+  background: #eee;
+=======
+>>>>>>> temp-branch
   color: #999999;
 }
 .datepicker th.datepicker-switch {
@@ -432,6 +659,10 @@
 .datepicker thead tr:first-child th:hover,
 .datepicker tfoot tr th:hover {
   background: #eeeeee;
+<<<<<<< HEAD
+=======
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
 }
 .datepicker .cw {
   font-size: 10px;
@@ -439,6 +670,18 @@
   padding: 0 2px 0 5px;
   vertical-align: middle;
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+.input-append.date .add-on,
+.input-prepend.date .add-on {
+  cursor: pointer;
+}
+.input-append.date .add-on i,
+.input-prepend.date .add-on i {
+  margin-top: 3px;
+=======
+>>>>>>> temp-branch
 .datepicker thead tr:first-child th.cw {
   cursor: default;
   background-color: transparent;
@@ -448,6 +691,10 @@
   cursor: pointer;
   width: 16px;
   height: 16px;
+<<<<<<< HEAD
+=======
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
 }
 .input-daterange input {
   text-align: center;
@@ -466,6 +713,19 @@
   display: inline-block;
   width: auto;
   min-width: 16px;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  height: 18px;
+  padding: 4px 5px;
+  font-weight: normal;
+  line-height: 18px;
+  text-align: center;
+  text-shadow: 0 1px 0 #fff;
+  vertical-align: middle;
+  background-color: #eee;
+=======
+>>>>>>> temp-branch
   height: 20px;
   padding: 4px 5px;
   font-weight: normal;
@@ -474,10 +734,20 @@
   text-shadow: 0 1px 0 #ffffff;
   vertical-align: middle;
   background-color: #eeeeee;
+<<<<<<< HEAD
+=======
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
   border: 1px solid #ccc;
   margin-left: -5px;
   margin-right: -5px;
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+/*# sourceMappingURL=bootstrap-datepicker.css.map */
+=======
+>>>>>>> temp-branch
 .datepicker.dropdown-menu {
   position: absolute;
   top: 100%;
@@ -509,4 +779,9 @@
 .datepicker.dropdown-menu th,
 .datepicker.dropdown-menu td {
   padding: 4px 5px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch

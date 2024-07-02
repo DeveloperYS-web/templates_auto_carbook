@@ -1,6 +1,14 @@
     /*
     Flaticon icon font: Flaticon
+<<<<<<< HEAD
     Creation date: 29/10/2019 06:11
+=======
+<<<<<<< HEAD
+    Creation date: 18/07/2019 07:36
+=======
+    Creation date: 29/10/2019 06:11
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
     */
 
     @font-face {
@@ -37,6 +45,24 @@
   font-smoothing: antialiased;
     }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    .flaticon-car:before { content: "\f100"; }
+.flaticon-car-1:before { content: "\f101"; }
+.flaticon-valet:before { content: "\f102"; }
+.flaticon-valet-1:before { content: "\f103"; }
+.flaticon-traffic:before { content: "\f104"; }
+.flaticon-key:before { content: "\f105"; }
+    
+    $font-Flaticon-car: "\f100";
+    $font-Flaticon-car-1: "\f101";
+    $font-Flaticon-valet: "\f102";
+    $font-Flaticon-valet-1: "\f103";
+    $font-Flaticon-traffic: "\f104";
+    $font-Flaticon-key: "\f105";
+=======
+>>>>>>> temp-branch
     .flaticon-wedding-car:before { content: "\f100"; }
 .flaticon-car:before { content: "\f101"; }
 .flaticon-suv:before { content: "\f102"; }
@@ -61,4 +87,9 @@
     $font-Flaticon-pistons: "\f108";
     $font-Flaticon-car-seat: "\f109";
     $font-Flaticon-backpack: "\f10a";
+<<<<<<< HEAD
     $font-Flaticon-diesel: "\f10b";
+=======
+    $font-Flaticon-diesel: "\f10b";
+>>>>>>> 11e28e6 (first commit)
+>>>>>>> temp-branch
