@@ -8,7 +8,11 @@
  * 
  * Open source under the BSD License. 
  * 
+<<<<<<< HEAD
  * Copyright ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â© 2008 George McGinley Smith
+=======
+ * Copyright Ã‚Â© 2008 George McGinley Smith
+>>>>>>> 11e28e6 (first commit)
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without modification, 
@@ -177,7 +181,11 @@ jQuery.extend( jQuery.easing,
  * 
  * Open source under the BSD License. 
  * 
+<<<<<<< HEAD
  * Copyright ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â© 2001 Robert Penner
+=======
+ * Copyright Ã‚Â© 2001 Robert Penner
+>>>>>>> 11e28e6 (first commit)
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without modification, 
